@@ -22,14 +22,14 @@
 > - 핵심 역할 : 팀원, 게시판과 댓글 기능 구현, 회원 관리 시스템 설계
 >
 >> Back-end
->> - Language : Java
->> - Skill : Spring-framework, mysql, docker
+>> - Language : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+>> - Skill : <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 >> 
 >> [프로젝트 상세 설명(Back-end)](https://github.com/yeojeong-0824/TeamBack)  
 >
 >> Front-end
->> - Language : javascript
->> - Skill : React.js
+>> - Language : <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+>> - Skill : <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 >>
 >> [프로젝트 상세 설명(Front-end)](https://github.com/yeojeong-0824/TeamFront)
 
@@ -40,8 +40,8 @@
 > 도서 게시판
 >
 > - 핵심 역할 : 네이버 api를 이용한 도서 게시판 기능 구현
-> - Language : Java, javascript
-> - Skill : Spring-framework, mysql, html, css
+> - Language : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+> - Skill : <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 >
 > [프로젝트 상세 설명](https://github.com/Go-EunLee/readers_club)
 
