@@ -28,7 +28,7 @@
 > 
 > Skill : Spring Boot, JPA, Java, MySQL, Redis, MongoDB, Docker, Jenkins, GCP
 >> 
->> [프로젝트 상세 설명](https://github.com/yeojeong-0824/TeamBack)  
+>> [프로젝트 상세 설명](https://github.com/JOBPREP-BE/JOBPREP-BE)
 
 <br />
 
